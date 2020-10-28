@@ -1,12 +1,12 @@
-# Popular dishes service proxy
+# Popular dishes service proxy (partialTable)
 
 
 ## Related Projects
 
-  - https://github.com/TKOut-HRSF130/popular-dishes-service
-  - https://github.com/TKOut-HRSF130/photos-carousel-service
-  - https://github.com/TKOut-HRSF130/bookings-service
-  - https://github.com/TKOut-HRSF130/reviews-service
+  - https://github.com/partialtable/popular-dishes-backend
+  - https://github.com/partialtable/photos-service
+  - https://github.com/partialtable/bookings-backend
+  - https://github.com/partialtable/reviews-sdc
 
 ## Table of Contents
 
