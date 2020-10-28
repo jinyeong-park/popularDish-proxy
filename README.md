@@ -1,4 +1,4 @@
-# Popular Dishes Service Proxy
+# Popular dishes service proxy
 
 
 ## Related Projects
